@@ -5,12 +5,14 @@
 
 
 ***About me***
+20 years old.
+I'm from México
+I'm currently studying an 'Ingeniería Informática' (Computer Science) career at the Universidad of Guadalajara (UDG).
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+
 * **I am interested in Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
-  - Java
-  - React js
+  - SQL
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
