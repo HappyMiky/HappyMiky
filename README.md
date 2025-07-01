@@ -11,7 +11,7 @@
 I'm from México and I'm  studying an 'Ingeniería Informática' (Computer Science) career at the Universidad of Guadalajara (UDG). On August of this year I'll be on my 6th semester of the degree. I'm so interested in cibersecurity an AI <br> 
 
 
-* **I am interested in Web designing, Android development, and digital marketing**
+
 - 🌱 I’m currently learning ...
   - SQL
 - I’m looking forward to improve my own skills studying.<br>
