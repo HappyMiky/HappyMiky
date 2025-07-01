@@ -7,18 +7,27 @@
 ***About me***
 
 
-20 years old.
-I'm from México
-I'm currently studying an 'Ingeniería Informática' (Computer Science) career at the Universidad of Guadalajara (UDG).
+
+I'm from México and I'm  studying an 'Ingeniería Informática' (Computer Science) career at the Universidad of Guadalajara (UDG). On August of this year I'll be on my 6th semester of the degree. I'm so interested in cibersecurity an AI <br> 
 
 
 * **I am interested in Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
   - SQL
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+- I’m looking forward to improve my own skills studying.<br>
+- Outside tech, 🎮🕹️ I really really love to play video games, 🖌️ sometimes I paint, 🎵 and without music I'm nobody 👻🎧, also I do a lot of exercise 🏀💪🏼🏋🏻
+- 📫 Reach out to me at: <a href="perezcalvillomiguelangel@gmail.com">perezcalvillomiguelangel@gmail.com</a>
+
+## My Skills Include
+
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</span>
 
 <!--
 **HappyMiky/HappyMiky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,4 +42,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+BOTON PARA REDES SOCIALES: 
+  <a href= "URL">
+  <img src="URL">
+  </a>
 -->
