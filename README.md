@@ -5,6 +5,8 @@
 
 
 ***About me***
+
+
 20 years old.
 I'm from México
 I'm currently studying an 'Ingeniería Informática' (Computer Science) career at the Universidad of Guadalajara (UDG).
