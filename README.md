@@ -3,7 +3,7 @@
   <p><strong>Computer Engineering Student @ CUCEI (UDG) | Cybersecurity & Software Development</strong></p>
   
   <p>
-    <a href="https://linkedin.com/in/miguel-perez-calvillo">
+    <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-p%C3%A9rez-calvillo-b67491355/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:perezcalvillomiguelangel@gmail.com">
