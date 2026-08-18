@@ -1,50 +1,55 @@
-<h1 align="center">Hiii! , I'm Miguel Ángel Pérez Calvillo, but please call me Miky :D <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+  <h1>Hi, I'm Miguel Ángel Pérez Calvillo 👋</h1>
+  <p><strong>Computer Engineering Student @ CUCEI (UDG) | Cybersecurity & Software Development</strong></p>
+  
+  <p>
+    <a href="https://linkedin.com/in/miguel-perez-calvillo">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:perezcalvillomiguelangel@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+---
 
+### 👨‍💻 About Me
 
+- 🎓 Undergraduate **Computer Engineering** student at **Universidad de Guadalajara (CUCEI)** (Expected 2027).
+- 🛡️ Passionate about **Cybersecurity, Linux system administration, and DevSecOps**.
+- 📱 Building cross-platform applications and asset systems with **Flutter, Dart, and PostgreSQL**.
+- ⚙️ Automating infrastructure security and log monitoring pipelines with **Python & Bash**.
+- 💬 Ask me about **Linux, Active Directory, Flutter architecture, or network security**.
 
-***About me***
+---
 
+### 🛠️ Technical Stack
 
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-I'm from México and I'm  studying an 'Ingeniería Informática' (Computer Science) career at the Universidad of Guadalajara (UDG). On August of this year I'll be on my 6th semester of the degree. I'm so interested in cibersecurity an AI <br> 
+**Frameworks & Backends**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
+**DevOps, Systems & Security**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white)
 
+---
 
-- 🌱 I’m currently learning ...
-  - SQL
-- I’m looking forward to improve my own skills studying.<br>
-- Outside tech, 🎮🕹️ I really really love to play video games, 🖌️ sometimes I paint, 🎵 and without music I'm nobody 👻🎧, also I do a lot of exercise 🏀💪🏼🏋🏻
-- 📫 Reach out to me at: <a href="perezcalvillomiguelangel@gmail.com">perezcalvillomiguelangel@gmail.com</a>
+### 🚀 Highlighted Projects
 
-## My Skills Include
-
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-</span>
-
-<!--
-**HappyMiky/HappyMiky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-BOTON PARA REDES SOCIALES: 
-  <a href= "URL">
-  <img src="URL">
-  </a>
--->
+* 🔍 **[Log Watcher Bot](https://github.com/HappyMiky/log-watcher-bot)** — Automated Linux SSH authentication log parser with real-time Discord threat alerting.
+* 📦 **[InventarioMB](https://github.com/HappyMiky/SIP)** — Cross-platform IT asset and license management app with Flutter & PostgreSQL/Supabase.
+* 🧠 **Habits App** *(In Active Development)* — Privacy-centric wellness platform integrating local on-device LLMs and telemetry streams.
